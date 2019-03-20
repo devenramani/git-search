@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "https://devenramani.github.io/git-search",
   "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "gh-pages": "^2.0.1",
+    "office-ui-fabric-react": "^6.157.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"

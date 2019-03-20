@@ -4,7 +4,7 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  height: 15vmin;
   pointer-events: none;
 }
 
@@ -22,6 +22,37 @@
 .App-link {
   color: #61dafb;
 }
+
+.ParentCard{
+  min-width: 60%;
+  padding: 10px;
+  color: aqua;
+}
+
+.card_odd {
+  min-Width: 275px;
+  background-color: #61dafb !important;
+}
+
+.card_even {
+  min-Width: 275px;
+  
+}
+
+.bullet {
+  display: 'inline-block';
+  margin: '0 2px';
+  transform: 'scale(0.8)';
+  
+}
+.title {
+  font-Size: 14px
+}
+
+.pos {
+  margin-Bottom: 12,
+}
+
 
 @keyframes App-logo-spin {
   from {
